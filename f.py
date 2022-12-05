@@ -1,8 +1,8 @@
 import numpy as np
 
-# Falling = 1
-# Standing = 2
-# Moving = 3
+# Falling = 0
+# Standing = 1
+# Moving = 2
 
 # Value function = 3 x T 
 T=3
